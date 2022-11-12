@@ -1,0 +1,155 @@
+*{
+    margin: auto;
+    padding: auto;
+    background-color: #F9F5EE;
+    font-weight: 600;
+}
+body{
+    background-color: #F9F5EE;
+}
+.iamclass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pinkbtn{
+    background-color: transparent;
+    border-radius: 0px;
+    border:2px solid #000000;
+    color: #000000;
+    font-size: 18px;
+    padding: 20px 100px;
+    text-transform: uppercase;
+    margin: 10px 0px;
+    width:80%;
+    
+}
+.pinkbtn:hover{
+    background-color: transparent;
+    border-radius: 0px;
+    border:2px solid #000000;
+    color: #000000;
+    font-size: 18px;
+    padding: 20px 100px;
+    text-transform: uppercase;
+    margin: 10px 0px;
+
+}
+.pinkbtn a{
+    text-decoration: none;
+    color: #000000;
+
+}
+.lisstt{
+    list-style: none;
+    text-decoration: none;
+}
+
+.neww-propertty{
+    background-color: #F9F5EE;
+    border: none;
+}
+.neww-propertty img{
+    border-radius: 0px;
+}
+.mmodal-sstylee{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.mmodal-sstylee ul li{
+    list-style: none;
+    text-decoration: none;
+    border-bottom: 0px;
+}
+.firstt-moodaal{
+    background-color: transparent;
+}
+.moodaal-coloor{
+   background-color: transparent;
+   margin-top: 25%;
+}
+.moodaal-bttnn{
+    background-color: transparent;
+    border-radius: 0px;
+    border:2px solid #000000;
+    color: #000000;
+    font-size: 18px;
+    /* padding: 10px 100px; */
+    height: 40px;
+    text-transform: uppercase;
+    margin: 10px 0px;
+    font-weight: 500;
+}
+.moodaal-bttnn:hover{
+    background-color: transparent;
+    border-radius: 0px;
+    border-color: #000000;
+    color: #000000;
+    font-size: 18px;
+    /* padding: 10px 100px; */
+    height: 40px;
+    text-transform: uppercase;
+    margin: 10px 0px;
+}
+.neeww-mooddal{
+    background-color: #F9F5EE;
+    margin-top: 50%;
+}
+.neeww-moodaal-bttnn{
+    background-color: transparent;
+    border-radius: 0px;
+    border:2px solid #000000;
+    color: #000000;
+    font-size: 18px;
+    padding:10px 20px;
+    text-transform: uppercase;
+    margin: 10px 0px;
+    font-weight: 500;
+}
+.neeww-moodaal-bttnn:hover{
+    background-color: transparent;
+    border-radius: 0px;
+    border-color: #000000;
+    color: #000000;
+    font-size: 18px;
+    padding:10px 20px;
+    text-transform: uppercase;
+    margin: 10px 0px;
+}
+.moodaal-pinkbtn{
+    background-color: transparent;
+    border-radius: 0px;
+    border:2px solid #000000;
+    color: #000000;
+    font-size: 18px;
+    padding: 5px;
+    text-transform: uppercase;
+    /* margin: 10px 0px; */
+    width:100%;
+    font-weight: 500;
+}
+.moodaal-pinkbtn:hover{
+    border: 2px solid #000000;
+}
+.mmyy-neeww-navv{
+    background-color: F9F5EE;
+}
+.mmyy-neeww-navv button{
+    border: none;
+}
+.navv-picc-aliggn{
+    margin: 0px;
+}
+.boordeer{
+    /* border-top:1px solid black; */
+    padding-top: 0px;
+    border-top:none ;
+}
+.crooss-coolor{
+    color: #000000;
+    border-bottom:none;
+}
+.noo-daata-cross{
+    border-bottom:none ;
+}
