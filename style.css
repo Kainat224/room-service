@@ -1,17 +1,18 @@
 *{
     margin: auto;
-    padding: auto;
+    padding: auto; 
     background-color: #F9F5EE;
     font-weight: 600;
 }
 body{
     background-color: #F9F5EE;
 }
-.iamclass {
+/* .iamclass {
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
+
 .pinkbtn{
     background-color: transparent;
     border-radius: 0px;
@@ -22,13 +23,14 @@ body{
     text-transform: uppercase;
     margin: 10px 0px;
     width:80%;
+    font-weight: 600;
     
 }
 .pinkbtn:hover{
-    background-color: transparent;
+    background-color: black;
     border-radius: 0px;
     border:2px solid #000000;
-    color: #000000;
+    color: white;
     font-size: 18px;
     padding: 20px 100px;
     text-transform: uppercase;
@@ -38,8 +40,9 @@ body{
 .pinkbtn a{
     text-decoration: none;
     color: #000000;
-
+ 
 }
+
 .lisstt{
     list-style: none;
     text-decoration: none;
@@ -82,10 +85,10 @@ body{
     font-weight: 500;
 }
 .moodaal-bttnn:hover{
-    background-color: transparent;
+    background-color: black;
     border-radius: 0px;
     border-color: #000000;
-    color: #000000;
+    color: white;
     font-size: 18px;
     /* padding: 10px 100px; */
     height: 40px;
@@ -102,18 +105,18 @@ body{
     border:2px solid #000000;
     color: #000000;
     font-size: 18px;
-    padding:10px 20px;
+    padding:7px 20px;
     text-transform: uppercase;
     margin: 10px 0px;
     font-weight: 500;
 }
 .neeww-moodaal-bttnn:hover{
-    background-color: transparent;
+    background-color: black;
     border-radius: 0px;
     border-color: #000000;
-    color: #000000;
+    color: #ffffff;
     font-size: 18px;
-    padding:10px 20px;
+    padding:7px 20px;
     text-transform: uppercase;
     margin: 10px 0px;
 }
@@ -131,6 +134,8 @@ body{
 }
 .moodaal-pinkbtn:hover{
     border: 2px solid #000000;
+    background-color: #000000;
+    color: white;
 }
 .mmyy-neeww-navv{
     background-color: F9F5EE;
@@ -138,9 +143,7 @@ body{
 .mmyy-neeww-navv button{
     border: none;
 }
-.navv-picc-aliggn{
-    margin: 0px;
-}
+
 .boordeer{
     /* border-top:1px solid black; */
     padding-top: 0px;
@@ -152,4 +155,44 @@ body{
 }
 .noo-daata-cross{
     border-bottom:none ;
+}
+/* counter css started*/
+icon-shape {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.icon-sm {
+    width: 2rem;
+    height: 2rem;
+    
+}
+/* counter css ends */
+
+.counnter-boor{
+    border-radius:0px;
+    border: 2px solid black;
+    width:80px;
+    height: 45px;
+    padding:5px;
+    
+}
+
+.fooccus:active{
+    border: none !important;
+
+}
+.naavv-boor{
+    border: none !important;
+}
+/* .fooccus:focus-within{
+    outline: none;
+} */
+.qttyy{
+    font-size: 18px;
+    font-weight: 500px;
+    color: #000000;
 }
